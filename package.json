@@ -1,5 +1,5 @@
 {
-  "name": "delegate",
+  "name": "@migrate-to-esm/delegate",
   "description": "Lightweight event delegation",
   "version": "3.2.0",
   "repository": "zenorocha/delegate",
