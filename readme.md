@@ -7,7 +7,7 @@ Lightweight event delegation.
 You can get it on npm.
 
 ```
-npm install delegate --save
+npm install @migrate-to-esm/delegate --save
 ```
 
 If you're not into package management, just [download a ZIP](https://github.com/zenorocha/delegate/archive/master.zip) file.
@@ -18,6 +18,11 @@ If you're not into package management, just [download a ZIP](https://github.com/
 
 ```js
 var delegate = require('delegate');
+```
+
+###### ES6
+```js
+import delegate from "delegate"
 ```
 
 ###### Browser (Standalone)
